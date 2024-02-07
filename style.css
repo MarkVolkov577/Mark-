@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: lime;
+    color: red;
+    height: 80px;
+    padding: 15px;
+    border-radius: 100px;
+}
+
+h1 {
+    background-color: chartreuse;
+    color: crimson;
+    text-align: center;
+}
+
+footer{
+    background-color:greenyellow;
+    color: darkred;
+}
+
+nav {
+    background-color: crimson;
+    text-align: center;
+    height: 30px;
+    padding: 15px;
+}
+
+nav a {
+    color: greenyellow;
+    padding: 30px;
+}
+
+.dwd{background-color: crimson; color: rgb(152, 218, 38); padding: 25px; border-radius: 20px; font-family:Arial, Helvetica, sans-serif;}
